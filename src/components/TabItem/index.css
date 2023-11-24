@@ -1,0 +1,21 @@
+button {
+  border: none;
+  margin: 10px;
+  font-family: 'Bree Serif';
+}
+
+.active-tab-btn {
+  border-bottom: 2px solid #0b69ff;
+  color: #3e4c59;
+}
+
+.tab-btn {
+  font-family: 'Roboto';
+  color: #7b8794;
+  font-weight: 500;
+  font-size: 16px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

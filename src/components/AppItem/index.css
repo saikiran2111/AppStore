@@ -1,0 +1,20 @@
+.app-item-img {
+  height: 40px;
+  width: 40px;
+}
+.app-heading {
+  font-family: 'Bree Serif';
+  font-size: 15px;
+}
+
+.app-item-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 10px;
+  border-radius: 8px;
+  margin: 20px;
+}
